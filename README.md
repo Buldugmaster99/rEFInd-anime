@@ -1,7 +1,8 @@
-# Glassy
+# Anime(Kurumi)  Theme
 ## A minimalistic rEFInd theme
 
-![Glassy](preview.png)
+![Preview](prev0.png)
+![Preview](prev1.png)
 
 ### Usage
 
@@ -13,8 +14,8 @@
 
  3. Clone this repository into the `themes` directory.
 
- 4. To enable the theme add `include themes/rEFInd-glassy/theme.conf` at the end of
-    `refind.conf`.
+ 4. To enable the theme add `include themes/rEFInd-kurumi/theme.conf` at the end of
+    `refind.conf`, or change the default ``#include manual.conf``. 
     
  5. You may need to change the default resolution of the rEFInd menu (see refind.conf).
     
@@ -28,3 +29,5 @@ Manual entries can be done via `menuentry` option (see refind.conf for examples)
 > This theme is based on the [Sunset](https://gitlab.com/realmain/rEFInd-sunset) theme.
 
 > Contains OS Icons from [munlik's](https://github.com/munlik/refind-theme-regular) repository.
+
+> Forked from [Pr0cella](https://github.com/Pr0cella/rEFInd-glassy) repository.
