@@ -1,8 +1,8 @@
 # Anime(Kurumi)  Theme
 ## A minimalistic rEFInd theme
 
-![Preview](prev0.png)
-![Preview](prev1.png)
+![Preview](prev0.jpg)
+![Preview](prev1.jpg)
 
 ### Usage
 
