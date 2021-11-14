@@ -2,7 +2,6 @@
 ## A minimalistic rEFInd theme
 
 ![Preview](prev0.jpg)
-![Preview](prev1.jpg)
 
 ### Usage
 
