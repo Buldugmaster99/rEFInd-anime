@@ -17,12 +17,13 @@
     `refind.conf`, or change the default ``#include manual.conf``. 
     
  5. You may need to change the default resolution of the rEFInd menu (see refind.conf).
-    
- 6. The background can easily be replaced by any .png-file with a resolution of 1920x1080.
 
 Entries should be autodetected and shown with the proper icons.
 
 Manual entries can be done via `menuentry` option (see refind.conf for examples).
+
+The background is designed to work with exactly 3 Icons, an maximum message lenth and 3
+additional buttons. Other Configurations let the background look weird
 
 ### Attributions
 > This theme is based on the [Sunset](https://gitlab.com/realmain/rEFInd-sunset) theme.
